@@ -3,7 +3,8 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    margin: 20px;
+    margin: 0px;
+    background-color: #1010109e;
     background-image: url('fondo.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
