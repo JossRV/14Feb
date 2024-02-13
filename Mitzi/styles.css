@@ -8,6 +8,7 @@ body {
     background-image: url('fondo.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
+    font-family: sans-serif;
 }
 
 .container {
@@ -65,7 +66,7 @@ button {
 #messageContainer {
     font-size: 30px;
     color: #000000; /* Color rojo */
-    font-family: 'arial', sans-serif; /* Reemplaza 'YourDesiredFont' con la fuente que desees */
+    font-family: sans-serif; /* Reemplaza 'YourDesiredFont' con la fuente que desees */
     text-shadow: 2px 2px 4px #000; /* Borde simulado */
     /* animation: pulse 0.5s infinite alternate; Animación de palpitación más rápida */
     text-align: center;
