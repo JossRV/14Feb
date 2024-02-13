@@ -59,7 +59,7 @@ button {
     background-color: #641e0d; /* Cambia a otro color en hover, puedes ajustar el valor según tus preferencias */
 }
 .bg-green {
-    background-color: #ffffff; /* Nuevo color de fondo verde */
+    background-color: #1010109e; /* Nuevo color de fondo verde */
 }
 
 #messageContainer {
@@ -69,7 +69,8 @@ button {
     text-shadow: 2px 2px 4px #000; /* Borde simulado */
     /* animation: pulse 0.5s infinite alternate; Animación de palpitación más rápida */
     text-align: center;
-    padding: 10%;
+    padding: 20px;
+    margin: 10px;
 }
 
 @keyframes pulse {
