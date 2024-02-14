@@ -20,7 +20,7 @@ document.getElementById('siBtn').addEventListener('click', function() {
 
     // Mostrar el mensaje específico
     document.getElementById('messageContainer').style.display = 'block';
-    document.getElementById('messageContainer').innerHTML = 'Yo tambien me quiero casar contigoooo!! <br> Eres el amor de mi vida!!';
+    document.getElementById('messageContainer').innerHTML = 'Siiii, Te amo ❤️';
 
     // Mostrar otro gif después de 3 segundos
     setTimeout(function() {
